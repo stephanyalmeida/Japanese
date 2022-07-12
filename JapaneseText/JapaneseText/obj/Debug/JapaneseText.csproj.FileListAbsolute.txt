@@ -1,0 +1,28 @@
+F:\_estudo\Nova pasta\JapaneseText\JapaneseText\bin\Debug\JapaneseText.exe.config
+F:\_estudo\Nova pasta\JapaneseText\JapaneseText\bin\Debug\JapaneseText.exe
+F:\_estudo\Nova pasta\JapaneseText\JapaneseText\bin\Debug\JapaneseText.pdb
+F:\_estudo\Nova pasta\JapaneseText\JapaneseText\obj\Debug\JapaneseText.csproj.AssemblyReference.cache
+F:\_estudo\Nova pasta\JapaneseText\JapaneseText\obj\Debug\JapaneseText.csproj.SuggestedBindingRedirects.cache
+F:\_estudo\Nova pasta\JapaneseText\JapaneseText\obj\Debug\JapaneseText.Form1.resources
+F:\_estudo\Nova pasta\JapaneseText\JapaneseText\obj\Debug\JapaneseText.Properties.Resources.resources
+F:\_estudo\Nova pasta\JapaneseText\JapaneseText\obj\Debug\JapaneseText.csproj.GenerateResource.cache
+F:\_estudo\Nova pasta\JapaneseText\JapaneseText\obj\Debug\JapaneseText.csproj.CoreCompileInputs.cache
+F:\_estudo\Nova pasta\JapaneseText\JapaneseText\obj\Debug\JapaneseText.exe
+F:\_estudo\Nova pasta\JapaneseText\JapaneseText\obj\Debug\JapaneseText.pdb
+F:\_estudo\Nova pasta\JapaneseText\JapaneseText\obj\Debug\JapaneseText.frm_pesquisar.resources
+F:\_estudo\Nova pasta\JapaneseText\JapaneseText\obj\Debug\JapaneseText.frm_Memorizar.resources
+F:\_estudo\Japanese\JapaneseText\JapaneseText\bin\Debug\JapaneseText.exe.config
+F:\_estudo\Japanese\JapaneseText\JapaneseText\bin\Debug\JapaneseText.exe
+F:\_estudo\Japanese\JapaneseText\JapaneseText\bin\Debug\JapaneseText.pdb
+F:\_estudo\Japanese\JapaneseText\JapaneseText\obj\Debug\JapaneseText.csproj.AssemblyReference.cache
+F:\_estudo\Japanese\JapaneseText\JapaneseText\obj\Debug\JapaneseText.csproj.SuggestedBindingRedirects.cache
+F:\_estudo\Japanese\JapaneseText\JapaneseText\obj\Debug\JapaneseText.Form1.resources
+F:\_estudo\Japanese\JapaneseText\JapaneseText\obj\Debug\JapaneseText.frm_pesquisar.resources
+F:\_estudo\Japanese\JapaneseText\JapaneseText\obj\Debug\JapaneseText.Properties.Resources.resources
+F:\_estudo\Japanese\JapaneseText\JapaneseText\obj\Debug\JapaneseText.csproj.GenerateResource.cache
+F:\_estudo\Japanese\JapaneseText\JapaneseText\obj\Debug\JapaneseText.csproj.CoreCompileInputs.cache
+F:\_estudo\Japanese\JapaneseText\JapaneseText\obj\Debug\JapaneseText.exe
+F:\_estudo\Japanese\JapaneseText\JapaneseText\obj\Debug\JapaneseText.pdb
+F:\_estudo\Japanese\JapaneseText\JapaneseText\obj\Debug\JapaneseText.pesquisa.resources
+F:\_estudo\Japanese\JapaneseText\JapaneseText\obj\Debug\JapaneseText.frm_pesquisaPT.resources
+F:\_estudo\Japanese\JapaneseText\JapaneseText\obj\Debug\JapaneseText.frm_pesquisaRM.resources
